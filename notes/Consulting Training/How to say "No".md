@@ -1,0 +1,13 @@
+# How to say "No"
+- Understand their situation. Ask Questions.
+	- What do they *really* need to achieve (needs, objectives...)
+-  Stay calm ( measured pace; maintain eye contact)
+-  Use positive language
+	-  "I'd be pleased to discuss how we might help"
+	-  don't use: won't, impossible, mistaken, can't...
+- Re-state your understanding of their objective
+- Empathize (show you understand their deeper needs)
+	- "I understand we need to move quickly so that..."
+- Explain why their request is not appropriate
+	- *risk, danger, sacrifice, damage, cost, undermine, violate...*
+- Offer a positive alternative approach

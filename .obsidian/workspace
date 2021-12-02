@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "dde89dce31c9812e",
+    "type": "split",
+    "children": [
+      {
+        "id": "822dce5a9074db77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Consulting Training/How to say \"No\".md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e6bbabf893469b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da1b583de094641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d86e6ca5166d363f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ccbf664dccf7e01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275
+  },
+  "right": {
+    "id": "4af22ae6e766ce06",
+    "type": "split",
+    "children": [
+      {
+        "id": "db95382638c71870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60219e338ffdd8d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Consulting Training/How to say \"No\".md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "822dce5a9074db77",
+  "lastOpenFiles": [
+    "notes/Consulting Training/How to say \"No\".md",
+    "notes/Consulting Training/Stage 1 Meeting Preperation.md",
+    "notes/Consulting Training/RolePlay/First Meeting.md",
+    "projects/ToDo/Breakdown.md",
+    "projects/BetAgain.md",
+    "projects/Betslip.md",
+    "projects/Deposit Limit Messaging.md",
+    "coding-notes/Go/Intro-to-Go.md",
+    "coding-notes/Go/interfaces-examples.md",
+    "notes/Incase You get \"Code Sandboxed\".md"
+  ]
+}
